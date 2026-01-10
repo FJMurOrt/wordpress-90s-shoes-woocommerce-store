@@ -5,6 +5,7 @@ This project is a WordPress-based online store created as a personal exercise to
 ## Project Overview
 - The main objective of this project was learning how to use WooCommerce within WordPress.
 - The store configuration (products, categories, payments, shipping, etc.) was managed directly through the WordPress and WooCommerce dashboards.
+- The project uses **Blocksy** as the parent theme, with a custom Blocksy child theme.
 - This repository contains only the child theme, created to showcase minor code-level customizations.
 - Some visual adjustments and effects were implemented using custom CSS.
 - Hosted on InfinityFree, a free web hosting service.
@@ -19,7 +20,7 @@ This project is a WordPress-based online store created as a personal exercise to
 ## Features
 - WooCommerce-based store structure.
 - 90s-inspired shoe store concept.
-- Custom child theme.
+- Blocksy child theme.
 - Minor CSS customizations.
 - Responsive layout.
 
