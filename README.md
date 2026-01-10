@@ -24,4 +24,4 @@ This project is a WordPress-based online store created as a personal exercise to
 - Responsive layout.
 
 ## Live Website
-👉 (90sOriginals) https://90soriginals.infinityfreeapp.com/
+[90sOriginals](https://90soriginals.infinityfreeapp.com/)
