@@ -9,7 +9,7 @@ This project is a WordPress-based online store created as a personal exercise to
 - Some visual adjustments and effects were implemented using custom CSS.
 - Hosted on InfinityFree, a free web hosting service.
 
-## What this repository is (and is not)
+## What this repository is (and is not)  
 ✔️ Shows the child theme structure and minor custom changes
 ✔️ Includes custom CSS related to the store layout and styling
 ❌ Does NOT include products, orders, customers, or media files
