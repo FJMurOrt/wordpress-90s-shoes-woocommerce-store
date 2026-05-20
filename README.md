@@ -1,25 +1,28 @@
  WordPress WooCommerce Learning Project – 90s Shoes Store
 
-This project is a WordPress-based online store created as a personal exercise to learn and become familiar with WooCommerce. The store concept is a shoe shop inspired by 90s styles.
+# Tienda online con WooCommerce
 
-## Project Overview
-- The main objective of this project was learning how to use WooCommerce within WordPress.
-- The store configuration (products, categories, payments, shipping, etc.) was managed directly through the WordPress and WooCommerce dashboards.
-- The project uses **Blocksy** as the parent theme, with a custom Blocksy child theme.
-- This repository contains only the child theme, created to showcase minor code-level customizations.
-- Some visual adjustments and effects were implemented using custom CSS.
-- Hosted on InfinityFree, a free web hosting service.
+Este proyecto es una tienda que realicé en WordPress como ejercicio personal para aprender y familiarizarme con WooCommerce. El concepto de la tienda está inspirado en una zapatería con estilo de los años 90.
 
-## What this repository is (and is not)
-✔️ Shows the child theme structure and minor custom changes  
-✔️ Includes custom CSS related to the store layout and styling  
-❌ Does NOT include products, orders, customers, or media files  
-❌ Does NOT include the WordPress database or WooCommerce configuration  
-❌ It is NOT intended to fully recreate the store  
+## Descripción general del proyecto
+- El principal objetivo de este proyecto fue aprender a utilizar WooCommerce dentro de WordPress.
+- La configuración de la tienda (productos, categorías, pagos, envíos, etc.) se gestionó directamente desde los paneles de administración de WordPress y WooCommerce.
+- El proyecto utiliza **Blocksy** como tema principal, junto con un tema hijo personalizado de Blocksy.
+- Este repositorio contiene únicamente el tema hijo, creado para mostrar pequeñas personalizaciones a nivel de código.
+- Algunos ajustes visuales y efectos fueron implementados mediante CSS personalizado.
+- Alojado en InfinityFree, un servicio gratuito de hosting web.
 
-## Features
-- WooCommerce-based store structure.
-- 90s-inspired shoe store concept.
+## Qué es este repositorio (y qué no es)
+✔️ Muestra la estructura del tema hijo y pequeños cambios personalizados  
+✔️ Incluye CSS personalizado relacionado con el diseño y estilo de la tienda  
+
+❌ NO incluye productos, pedidos, clientes ni archivos multimedia  
+❌ NO incluye la base de datos de WordPress ni la configuración de WooCommerce  
+❌ NO está pensado para recrear completamente la tienda  
+
+## Características
+- Estructura de tienda basada en WooCommerce.
+- Concepto de zapatería inspirado en los años 90.
 - Blocksy child theme.
 - Minor CSS customizations.
 - Responsive layout.
