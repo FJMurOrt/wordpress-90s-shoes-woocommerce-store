@@ -10,7 +10,7 @@ Este proyecto es una tienda que realicé en WordPress como ejercicio personal pa
 - El proyecto utiliza **Blocksy** como tema principal, junto con un tema hijo personalizado de Blocksy.
 - Este repositorio contiene únicamente el tema hijo, creado para mostrar pequeñas personalizaciones a nivel de código.
 - Algunos ajustes visuales y efectos fueron implementados mediante CSS personalizado.
-- Alojado en InfinityFree, un servicio gratuito de hosting web.
+- Desplegado en InfinityFree, un servicio gratuito de hosting web.
 
 ## Qué es este repositorio (y qué no es)
 ✔️ Muestra la estructura del tema hijo y pequeños cambios personalizados  
